@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Contact-List/static/css/main.2b0a7886.css",
+    "main.js": "/Contact-List/static/js/main.5e28bd97.js",
+    "static/js/787.c5ea0279.chunk.js": "/Contact-List/static/js/787.c5ea0279.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Contact-List/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/Contact-List/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/Contact-List/index.html",
+    "main.2b0a7886.css.map": "/Contact-List/static/css/main.2b0a7886.css.map",
+    "main.5e28bd97.js.map": "/Contact-List/static/js/main.5e28bd97.js.map",
+    "787.c5ea0279.chunk.js.map": "/Contact-List/static/js/787.c5ea0279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b0a7886.css",
+    "static/js/main.5e28bd97.js"
+  ]
+}
